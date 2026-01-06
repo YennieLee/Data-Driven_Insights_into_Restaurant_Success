@@ -1,0 +1,17 @@
+# ======================
+# Datasets
+# ======================
+
+# Ignore all files in the datasets directory
+datasets/*
+
+# Track only business6.csv
+!datasets/business6.csv
+
+
+# ======================
+# CatBoost outputs
+# ======================
+
+# Ignore all CatBoost training output files
+notebooks/catboost_info/
