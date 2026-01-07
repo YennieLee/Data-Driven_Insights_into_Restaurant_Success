@@ -10,7 +10,7 @@ The findings are designed to support **restaurant owners and operators** in maki
 The analysis was conducted in four main steps:
 
 1. **Defined three custom performance metrics** for restaurants — *stability score*, *loyalty score*, and *reliability score*.
-2. **Validate custom metrics** using statistical testing
+2. **Validated custom metrics** using statistical testing
 3. **Identified key features** that positively or negatively impact each metric.
 4. **Translated analytical insights into actionable recommendations** for restaurant operators.
 
