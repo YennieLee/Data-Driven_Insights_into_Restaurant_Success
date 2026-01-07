@@ -7,11 +7,12 @@ To uncover key strategies for success, I analyzed restaurant review data contain
 
 The findings are designed to support **restaurant owners and operators** in making data-driven decisions to improve long-term performance.
 
-The analysis was conducted in three main steps:
+The analysis was conducted in four main steps:
 
 1. **Defined three custom performance metrics** for restaurants — *stability score*, *loyalty score*, and *reliability score*.
-2. **Identified key features** that positively or negatively impact each metric.
-3. **Translated analytical insights into actionable recommendations** for restaurant operators.
+2. **Validate custom metrics** using statistical testing
+3. **Identified key features** that positively or negatively impact each metric.
+4. **Translated analytical insights into actionable recommendations** for restaurant operators.
 
 Detailed information, such as statistical testing and machine learning performance, is included in the presentation materials.
 <br><br><br>
