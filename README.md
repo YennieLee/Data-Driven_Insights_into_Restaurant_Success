@@ -48,13 +48,13 @@ Detailed information, such as statistical testing and machine learning performan
 ### 2. Loyalty Score
 - The loyalty score reflects how beloved a restaurant is — how many regular customers it has and how often they visit.
 - Restaurants with higher loyalty scores tend to maintain higher average ratings.
-  <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/17821324-e27f-49e6-bbf5-874528d840cc" />
+  <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/44abc19f-9bc1-40aa-8075-6bdb1cd1a7d2" />
 <br>
 
 ### 3. Reliability Score
 - The **Reliability Score** captures how credible a restaurant appears to potential customers by measuring the share of reviews written by influential reviewers.
 - Restaurants with higher reliability scores attract more first-time visitors and accumulate more reviews.
-  <img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/7da2ff35-b6ef-4e86-aca2-05d9681a6e1b" /><br><br><br>
+  <img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/ef13fe54-083e-4651-adbd-0cae6462c666" />
 <br><br><br>
 
 ---
