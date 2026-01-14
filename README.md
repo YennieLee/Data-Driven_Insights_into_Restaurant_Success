@@ -40,19 +40,19 @@ Detailed information, such as statistical testing and machine learning performan
 
 ## 🎯 Restaurant Performance Metrics
 ### 1. Stability Score
-- The stability score measures a restaurant’s operational resilience — its ability to withstand and recover from negative events such as rating drops or critical reviews.
+- The stability score measures a restaurant’s **operational resilience** — its **ability to withstand and recover from negative events** such as rating drops or critical reviews.
 - Higher stability scores are associated with lower closure probabilities.
   <img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/216346eb-bd08-4e44-b295-22047b7158c7" />
 <br>
 
 ### 2. Loyalty Score
-- The loyalty score reflects how beloved a restaurant is — how many regular customers it has and how often they visit.
+- The loyalty score reflects **how beloved a restaurant is** — how many regular customers it has and how often they visit.
 - Restaurants with higher loyalty scores tend to maintain higher average ratings.
   <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/44abc19f-9bc1-40aa-8075-6bdb1cd1a7d2" />
 <br>
 
 ### 3. Reliability Score
-- The **Reliability Score** captures how credible a restaurant appears to potential customers by measuring the share of reviews written by influential reviewers.
+- The Reliability Score captures **how credible a restaurant appears to potential customers** by measuring the share of reviews written by influential reviewers.
 - Restaurants with higher reliability scores attract more first-time visitors and accumulate more reviews.
   <img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/ef13fe54-083e-4651-adbd-0cae6462c666" />
 <br><br><br>
